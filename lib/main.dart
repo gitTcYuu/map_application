@@ -4,6 +4,7 @@ import 'package:map_application/blocs/map/map_bloc.dart';
 import 'package:map_application/route.dart';
 
 void main() {
+  
   runApp(const MyApp());
 }
 
